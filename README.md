@@ -64,22 +64,9 @@ The app will open on http://localhost:3000
 - Enter the 6-digit OTP to verify
 - On next login, you’ll be prompted for the OTP
 
-⚠️ Disclaimer
-
-This project is meant for learning/demo purposes only. It is not production-ready and lacks many security hardenings required for a real-world app.
-📂 Folder Structure (if monorepo)
-
 /frontend     → React frontend  
 /Backend      → Express backend  
 /Backend/.env.example → Environment config sample  
-
-🙋‍♂️ Author
-
-Created by Vikram Hegde to learn and demonstrate how to implement MFA in a modern web stack.
-🤝 Contributions
-
-Feel free to fork and extend — you can add features like:
-    
 - Password reset
 - Email verification
 - Session timeout / Remember device toggle
